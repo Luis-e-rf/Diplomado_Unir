@@ -1,0 +1,8 @@
+La Gran encuesta integrada de hogares es una encuesta mediante la cual se solicita información sobre las condiciones de empleo de las personas
+(si trabajan, en qué trabajan, cuánto ganan, si tienen seguridad social en salud o si están buscando empleo), además de las características
+generales de la población como sexo, edad, estado civil y nivel educativo, se pregunta sobre sus fuentes de ingresos. La GEIH proporciona
+al país información a nivel nacional, cabecera - resto, regional, departamental, y para cada una de las capitales de los departamentos.
+
+
+Fuente: https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-y-desempleo 
+Datos: https://microdatos.dane.gov.co/index.php/catalog/central/about 
